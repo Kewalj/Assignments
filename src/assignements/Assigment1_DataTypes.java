@@ -7,6 +7,7 @@ public class Assigment1_DataTypes {
 		
 		float temprature =25.5f;
 	System.out.println("Temperature of a city in degrees Celsius:"+temprature);
+	System.out.println("Temperature of a city in degrees Celsius:"+temprature);
 
 	}
 
